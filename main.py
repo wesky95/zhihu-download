@@ -230,7 +230,7 @@ if __name__ == "__main__":
     # url = "https://www.zhihu.com/question/35931336/answer/2996939350"
 
     # 文章
-    url = "https://zhuanlan.zhihu.com/p/634511745"
+    url = "https://zhuanlan.zhihu.com/p/45708880"
 
     # 专栏
     # url = "https://www.zhihu.com/column/c_1649842617335672832"
